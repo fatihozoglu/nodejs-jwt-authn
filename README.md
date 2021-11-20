@@ -1,4 +1,4 @@
-# Node.js Blog App
+# Node.js Authentication with JWT
 
 This is a Nodejs Authentication Project with [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken).
 
@@ -6,7 +6,6 @@ This is a Nodejs Authentication Project with [JSON Web Token](https://www.npmjs.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
