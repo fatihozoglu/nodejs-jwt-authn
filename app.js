@@ -93,4 +93,9 @@ app.post("/login", async (req, res) => {
   // Our register logic ends here
 });
 
-module.exports = app;
+const { API_PORT } = process.env;
+const port = process.env.PORT || API_PORT;
+
+app.listen(port, () => {
+  console.log(`Server running on port ${port}`);
+});

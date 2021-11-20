@@ -4,8 +4,8 @@
   "description": "Nodejs Authentication Project with Json Web Tokens (JWT)",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Fatih Özoğlu",
   "license": "MIT",
