@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-jwt",
+  "name": "nodejs-jwt-authn",
   "version": "1.0.0",
   "description": "Nodejs Authentication Project with Json Web Tokens (JWT)",
   "main": "index.js",
